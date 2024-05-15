@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1697668583 source:c:\temporal\eda\p3-grupo11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	"rac.h"
+	"ral.h"
+	"costos.h"
+
+1697667951 c:\temporal\eda\p3-grupo11\rac.h
+	"shipment.h"
+
+1697514145 c:\temporal\eda\p3-grupo11\shipment.h
+	"person.h"
+
+1697514161 c:\temporal\eda\p3-grupo11\person.h
+
+1697668648 c:\temporal\eda\p3-grupo11\costos.h
+
+1697666448 c:\temporal\eda\p3-grupo11\ral.h
+	"shipment.h"
+

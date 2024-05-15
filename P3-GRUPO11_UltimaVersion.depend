@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1697683465 source:c:\users\familia\desktop\p3-grupo11ultimo\p3-grupo11ultimaversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	"rac.h"
+	"ral.h"
+	"costos.h"
+	"rs.h"
+
+1697673514 c:\users\familia\desktop\p3-grupo11ultimo\p3-grupo11ultimaversion\rac.h
+	"shipment.h"
+
+1697673514 c:\users\familia\desktop\p3-grupo11ultimo\p3-grupo11ultimaversion\shipment.h
+	"person.h"
+
+1697673513 c:\users\familia\desktop\p3-grupo11ultimo\p3-grupo11ultimaversion\person.h
+
+1697673514 c:\users\familia\desktop\p3-grupo11ultimo\p3-grupo11ultimaversion\ral.h
+	"shipment.h"
+
+1697676644 c:\users\familia\desktop\p3-grupo11ultimo\p3-grupo11ultimaversion\costos.h
+
+1697683972 c:\users\familia\desktop\p3-grupo11ultimo\p3-grupo11ultimaversion\rs.h
+	"listShipment.h"
+
+1697684531 c:\users\familia\desktop\p3-grupo11ultimo\p3-grupo11ultimaversion\listshipment.h
+	"shipment.h"
+	<string.h>
+
+1697693464 source:c:\users\familia\desktop\trabajo eda\p3-grupo11ultimaversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	"rac.h"
+	"ral.h"
+	"costos.h"
+	"rs.h"
+
+1697673514 c:\users\familia\desktop\trabajo eda\p3-grupo11ultimaversion\rac.h
+	"shipment.h"
+
+1697673514 c:\users\familia\desktop\trabajo eda\p3-grupo11ultimaversion\shipment.h
+	"person.h"
+
+1697673513 c:\users\familia\desktop\trabajo eda\p3-grupo11ultimaversion\person.h
+
+1697673514 c:\users\familia\desktop\trabajo eda\p3-grupo11ultimaversion\ral.h
+	"shipment.h"
+
+1697694651 c:\users\familia\desktop\trabajo eda\p3-grupo11ultimaversion\costos.h
+
+1697694985 c:\users\familia\desktop\trabajo eda\p3-grupo11ultimaversion\rs.h
+	"listShipment.h"
+
+1697694610 c:\users\familia\desktop\trabajo eda\p3-grupo11ultimaversion\listshipment.h
+	"shipment.h"
+	<string.h>
+
+1698806887 source:c:\users\familia\desktop\universidad\trabajo eda\p3-grupo11ultimaversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	"rac.h"
+	"ral.h"
+	"costos.h"
+	"rs.h"
+
+1698807826 c:\users\familia\desktop\universidad\trabajo eda\p3-grupo11ultimaversion\rac.h
+	"shipment.h"
+
+1697673514 c:\users\familia\desktop\universidad\trabajo eda\p3-grupo11ultimaversion\shipment.h
+	"person.h"
+
+1697673513 c:\users\familia\desktop\universidad\trabajo eda\p3-grupo11ultimaversion\person.h
+
+1698803111 c:\users\familia\desktop\universidad\trabajo eda\p3-grupo11ultimaversion\ral.h
+	"shipment.h"
+
+1697694651 c:\users\familia\desktop\universidad\trabajo eda\p3-grupo11ultimaversion\costos.h
+
+1698807415 c:\users\familia\desktop\universidad\trabajo eda\p3-grupo11ultimaversion\rs.h
+	"listShipment.h"
+
+1698779953 c:\users\familia\desktop\universidad\trabajo eda\p3-grupo11ultimaversion\listshipment.h
+	"shipment.h"
+	<string.h>
+
+1700009046 source:c:\users\familia\desktop\eda\p3-grupo11ultimaversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<windows.h>
+	<ctype.h>
+	<math.h>
+	"rac.h"
+	"ral.h"
+	"costos.h"
+	"rs.h"
+
+1698807826 c:\users\familia\desktop\eda\p3-grupo11ultimaversion\rac.h
+	"shipment.h"
+
+1697673514 c:\users\familia\desktop\eda\p3-grupo11ultimaversion\shipment.h
+	"person.h"
+
+1697673513 c:\users\familia\desktop\eda\p3-grupo11ultimaversion\person.h
+
+1698803111 c:\users\familia\desktop\eda\p3-grupo11ultimaversion\ral.h
+	"shipment.h"
+
+1697694651 c:\users\familia\desktop\eda\p3-grupo11ultimaversion\costos.h
+
+1700012252 c:\users\familia\desktop\eda\p3-grupo11ultimaversion\rs.h
+
+1700002319 c:\users\familia\desktop\eda\p3-grupo11ultimaversion\listavin.h
+	"shipment.h"
+
